@@ -1,0 +1,121 @@
+{
+  "mapping": {
+    "Identificador": {
+      "default_value": "", 
+      "description": null, 
+      "datatype": "string", 
+      "label": "Identificador", 
+      "column": "id", 
+      "key": true, 
+      "type": "attribute"
+    }, 
+    "Departamento": {
+      "attributes": {
+        "name": {
+          "column": "depto", 
+          "datatype": "id", 
+          "default_value": ""
+        }, 
+        "label": {
+          "column": "departamento", 
+          "datatype": "string", 
+          "default_value": ""
+        }
+      }, 
+      "type": "compound", 
+      "description": null, 
+      "label": "Departamento"
+    }, 
+    "Institucion": {
+      "attributes": {
+        "name": {
+          "column": "institcion", 
+          "datatype": "id", 
+          "default_value": ""
+        }, 
+        "label": {
+          "column": "institcion", 
+          "datatype": "string", 
+          "default_value": ""
+        }
+      }, 
+      "type": "compound", 
+      "description": null, 
+      "label": "Institucion"
+    }, 
+    "amount": {
+      "default_value": "", 
+      "description": null, 
+      "datatype": "float", 
+      "label": "Amount", 
+      "column": "superficie", 
+      "type": "measure"
+    }, 
+    "time": {
+      "default_value": "", 
+      "description": null, 
+      "format": null, 
+      "column": "numero", 
+      "label": "Time", 
+      "datatype": "date", 
+      "type": "date"
+    }, 
+    "Localidad": {
+      "attributes": {
+        "name": {
+          "column": "localidad", 
+          "datatype": "id", 
+          "default_value": ""
+        }, 
+        "label": {
+          "column": "localidad", 
+          "datatype": "string", 
+          "default_value": ""
+        }
+      }, 
+      "type": "compound", 
+      "description": null, 
+      "label": "Localidad"
+    }, 
+    "Distrito": {
+      "attributes": {
+        "name": {
+          "column": "dist", 
+          "datatype": "id", 
+          "default_value": ""
+        }, 
+        "label": {
+          "column": "distrito", 
+          "datatype": "string", 
+          "default_value": ""
+        }
+      }, 
+      "type": "compound", 
+      "description": null, 
+      "label": "Distrito"
+    }
+  }, 
+  "dataset": {
+    "description": "tercer intento", 
+    "default_time": null, 
+    "html_url": "https://openspending.org/inmuebles3", 
+    "currency": "PYG", 
+    "serp_title": null, 
+    "schema_version": null, 
+    "badges": [], 
+    "category": "other", 
+    "name": "inmuebles3", 
+    "serp_teaser": null, 
+    "label": "inmuebles3", 
+    "languages": [
+      "es"
+    ], 
+    "territories": [
+      "PY"
+    ], 
+    "timestamps": {
+      "last_modified": "2014-10-01T07:29:37.099075", 
+      "created": "2014-10-01T06:30:52.136983"
+    }
+  }
+}
