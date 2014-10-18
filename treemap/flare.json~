@@ -1,0 +1,113 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "ALTO PARANA",
+   "children": [
+    {"name": "ALTO PARANA", "size": 3239143, "count": 357}
+   ]
+  },
+  {
+   "name": "ITAPUA",
+   "children": [
+    {"name": "ITAPUA", "size": 5378564, "count": 596}
+   ]
+  },
+  {
+   "name": "CENTRAL",
+   "children": [
+    {"name": "CENTRAL", "size": 1761679, "count": 422}
+   ]
+  },
+  {
+   "name": "CONCEPCION",
+   "children": [
+    {"name": "CONCEPCION", "size": 3522921, "count": 302}
+   ]
+  },
+  {
+   "name": "SAN PEDRO",
+   "children": [
+    {"name": "SAN PEDRO", "size": 6272367, "count": 643}
+   ]
+  },
+  {
+   "name": "CORDILLERA",
+   "children": [
+    {"name": "CORDILLERA", "size": 2339957, "count": 301}
+   ]
+  },
+  {
+   "name": "CAPITAL",
+   "children": [
+    {"name": "CAPITAL", "size": 416054, "count": 84}
+   ]
+  },
+  {
+   "name": "CAAGUAZU",
+   "children": [
+    {"name": "CAAGUAZU", "size": 5884637, "count": 629}
+   ]
+  },
+  {
+   "name": "GUAIRA",
+   "children": [
+    {"name": "GUAIRA", "size": 1565876, "count": 239}
+   ]
+  },
+  {
+   "name": "ÑEEMBUCU",
+   "children": [
+    {"name": "ÑEEMBUCU", "size": 956199, "count": 144}
+   ]
+  },
+  {
+   "name": "CAAZAPA",
+   "children": [
+    {"name": "CAAZAPA", "size": 2474746, "count": 288}
+   ]
+  },
+  {
+   "name": "PARAGUARI",
+   "children": [
+    {"name": "PARAGUARI", "size": 2431315, "count": 319}
+   ]
+  },
+  {
+   "name": "AMAMBAY",
+   "children": [
+    {"name": "AMAMBAY", "size": 803124, "count": 64}
+   ]
+  },
+  {
+   "name": "PRESIDENTE HAYES",
+   "children": [
+    {"name": "PRESIDENTE HAYES", "size": 447226, "count": 58}
+   ]
+  },
+  {
+   "name": "CANINDEYU",
+   "children": [
+    {"name": "CANINDEYU", "size": 2209186, "count": 184}
+   ]
+  },
+  {
+   "name": "ALTO PARAGUAY",
+   "children": [
+    {"name": "ALTO PARAGUAY", "size": 41650, "count": 184}
+   ]
+  },
+  {
+   "name": "BOQUERON",
+   "children": [
+    {"name": "BOQUERON", "size": 45000, "count": 9}
+   ]
+  },
+  {
+   "name": "MISIONES",
+   "children": [
+    {"name": "MISIONES", "size": 801147, "count": 2}
+   ]
+  }
+ ]
+}
